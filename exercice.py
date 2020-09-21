@@ -19,8 +19,9 @@ def use_prefixes() -> List[str]:
 
 
 def prime_integer_summation() -> int:
-    i= 0
-    for i 
+    
+    for i in range(100):
+        
     return 0
 
 
