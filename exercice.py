@@ -26,7 +26,8 @@ def prime_integer_summation() -> int:
 
 
 def factorial(number: int) -> int:
-     = 1
+     cpt = 1
+     while
     
     return 0
 
