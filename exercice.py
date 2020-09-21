@@ -29,7 +29,7 @@ def factorial(number: int) -> int:
      cpt = 1
      stocker = 1
      while cpt <= number:
-         stocker *
+         stocker *=cpt
 
     return 0
 
