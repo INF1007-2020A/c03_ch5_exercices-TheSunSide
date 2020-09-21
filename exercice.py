@@ -26,9 +26,8 @@ def prime_integer_summation() -> int:
 
 
 def factorial(number: int) -> int:
-    number = 1
-    for i in range(number) :
-       number += i
+     = 1
+    
     return 0
 
 
