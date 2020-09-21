@@ -30,7 +30,7 @@ def factorial(number: int) -> int:
      stocker = 1
      while cpt <= number:
          stocker *=cpt
-    return stocker
+     return stocker
 
 
 def use_continue() -> None:
