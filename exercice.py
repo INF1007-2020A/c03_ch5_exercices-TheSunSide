@@ -36,7 +36,7 @@ def factorial(number: int) -> int:
 def use_continue() -> None:
     for i in range(10):
         if(i == 5):
-            print 
+        
 
     pass
 
