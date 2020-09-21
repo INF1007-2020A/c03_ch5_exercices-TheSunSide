@@ -20,7 +20,8 @@ def use_prefixes() -> List[str]:
 
 def prime_integer_summation() -> int:
     number = 0
-    liste = List
+    liste = List[int]
+    
     for i in range(100) :
        
     return i
