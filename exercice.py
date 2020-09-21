@@ -19,7 +19,7 @@ def use_prefixes() -> List[str]:
 
 
 def prime_integer_summation() -> int:
-    for(int i = 0; i )
+    for(int i = 0; i < 100; i += 1)
     return 0
 
 
