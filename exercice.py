@@ -20,9 +20,9 @@ def use_prefixes() -> List[str]:
 
 def prime_integer_summation() -> int:
     number = 0
-    for i in range(100):
-       
-    return 0
+    for i in range(100) :
+       number += i
+    return i
 
 
 def factorial(number: int) -> int:
