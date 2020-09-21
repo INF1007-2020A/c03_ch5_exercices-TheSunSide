@@ -5,7 +5,7 @@
 from typing import List
 
 
-def convert_to_absolute() -> float:
+def convert_to_absolute(number: float) -> float:
     return 0.0
 
 
