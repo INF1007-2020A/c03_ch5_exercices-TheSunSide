@@ -29,9 +29,8 @@ def factorial(number: int) -> int:
      cpt = 1
      stocker = 1
      while cpt <= number:
-     
-     
-    
+         stocker *
+
     return 0
 
 
